@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ethan
 - 👀 I’m interested in Learning how to code big projects
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html, JavaScript and Css
 - 💞️ I’m looking to collaborate on makeing random projects 
 - 📫 How to reach me Dicsord: 3thanm
 
